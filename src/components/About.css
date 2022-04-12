@@ -1,0 +1,43 @@
+.aboutContainer {
+	max-width: 1200px;
+	margin: 50px auto auto;
+}
+.aboutHeader {
+	text-align: center;
+}
+h2 {
+			margin-bottom: 20px;
+		}
+img {
+			width: 50%;
+			height: auto;
+			border-radius: 5px;
+			margin-bottom: 20px;
+	}
+.text-wrap-about {
+		margin: auto;
+		width: 90%;  }
+
+p:nth-child(1) {
+
+				color: rgb(39,27,45);
+				font-size: 30px;
+
+		}
+p:nth-child(2) {
+			margin: 10px 0;
+		}
+
+blockquote {
+			color: rgb(39,27,45);
+			margin: 10px 0;
+			text-align: center;
+		}
+p:nth-child(4) {
+
+				color: rgb(39,27,45);
+				font-size: 30px;
+		}
+p:nth-child(5) {
+			margin-top: 10px;
+		}
